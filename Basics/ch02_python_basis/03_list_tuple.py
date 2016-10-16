@@ -1,5 +1,5 @@
 #coding=utf-8 
-#######List 里面的元素的数据类型也可以不同,可以有多维数组
+#######List 里面的元素的数据类型也可以不同,可以有多维数组git
 classname = ['张三','李四','王五']
 print(classname) 
 print(len(classname))
